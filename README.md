@@ -15,7 +15,7 @@ Follow these steps to set up and run the Stock Prediction App:
 
 ```bash
 git clone <repository_url>
-cd stock-prediction-app
+cd lstm-stockpred
 ```
 
 ### 2. Create a Virtual Environment
